@@ -1,8 +1,8 @@
 export default function Home() {
-  let name = "kim";
+  let name = "Kairos.hk";
   return (
     <div>
-      <h4 className="title">Next.js</h4>
+      <h4 className="title">Next.js Study</h4>
       <p className="title-sub">by dev {name}</p>
 
     </div>

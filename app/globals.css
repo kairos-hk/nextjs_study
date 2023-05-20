@@ -17,12 +17,18 @@ body {
 .navbar {
   background: white;
   padding: 20px;
+  text-align: center;
+  color: #303030;
 }
 .navbar a {
   margin-right: 10px;
   text-decoration: none;
+
 } 
 
+.about-img {
+  text-align: center;
+}
 .def {
   text-align: center;
   font-size: large;

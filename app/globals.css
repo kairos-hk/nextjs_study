@@ -3,7 +3,17 @@ body {
   background-color: #303030;
   color : white
 }
- 
+
+.user-info {
+  text-align: center;
+  margin: 20px auto;
+  width: 200px;
+  background: white;
+  color: black;
+  padding: 20px;
+  border-radius: 15px;
+  font-size: 15px;
+}
 .title {
   text-align: center;
 
@@ -40,17 +50,9 @@ body {
   text-align: center;
 }
 
-.user {
-  margin: 20px auto;
-  width: 150px;
-  background: white;
-  color: black;
-  padding: 20px;
-  border-radius: 15px;
-  font-size: 15px;
+.food {
   text-align: center;
-} 
-
+}
 .usertitle {
   text-align: center;
   font-size: 30px;

@@ -9,6 +9,7 @@ export default function RootLayout({ children }) {
         <div className="navbar">
           <Link href="/">Home</Link>
           <Link href="/user">User</Link>
+          <Link href="/project">Project</Link>
           <Link href="/about">About</Link>
         </div>
         {children}

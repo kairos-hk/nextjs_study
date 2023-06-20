@@ -29,6 +29,7 @@ body {
   padding: 20px;
   text-align: center;
   color: #303030;
+  font-weight: 700;
 }
 .navbar a {
   margin-right: 10px;
@@ -56,4 +57,36 @@ body {
 .usertitle {
   text-align: center;
   font-size: 30px;
+}
+
+.title_user{
+  text-align: center;
+  font-size: 30px;
+}
+
+.img_user{
+  height: auto;
+}
+
+.cart-item {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid grey;
+  line-height: 0px;
+} 
+
+.cart_css {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+}
+
+.cart-line {
+  font-size: large;
+  font-weight: 600;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 3px solid grey;
 }
